@@ -1,6 +1,6 @@
-# 🍔 Food Delivery Data Analysis & Business Intelligence
+#  Food Delivery Data Analysis & Business Intelligence
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing food delivery order data to understand customer behavior, restaurant performance, delivery efficiency, and business revenue.
 
@@ -8,7 +8,7 @@ The project uses Python for data cleaning and exploratory data analysis (EDA), S
 
 The main objective is to transform raw food delivery data into meaningful insights that can help improve business performance and operational efficiency.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze food delivery orders and customer purchasing patterns.
 - Clean and preprocess raw datasets using Python.
@@ -18,7 +18,7 @@ The main objective is to transform raw food delivery data into meaningful insigh
 - Understand revenue, discounts, tips, and payment methods.
 - Build interactive dashboards to visualize business insights.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -31,7 +31,7 @@ The main objective is to transform raw food delivery data into meaningful insigh
 | Power BI | Interactive dashboards |
 | Jupyter Notebook | Exploratory Data Analysis |
 
-## 📂 Project Files
+##  Project Files
 
 | File Name | Description |
 |---|---|
@@ -41,7 +41,7 @@ The main objective is to transform raw food delivery data into meaningful insigh
 | `SQL_Python_Integration.py` | Python and MySQL integration |
 | `Food_Delivery_BI.pbix` | Power BI interactive dashboard |
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 - Imported the original food delivery dataset.
@@ -84,7 +84,7 @@ Created an interactive Power BI dashboard with seven analytical pages:
 6. **Financial Analysis** – Revenue, discounts, tips, and payment methods.
 7. **Overall Data Overview** – Overall business metrics and operational insights.
 
-## 📊 Key Business Insights
+##  Key Business Insights
 
 The project explores important business questions:
 
@@ -97,7 +97,7 @@ The project explores important business questions:
 - Which payment methods are commonly used?
 - What is the relationship between late deliveries and customer ratings?
 
-## 💡 Project Outcomes
+##  Project Outcomes
 
 - Developed practical experience in data cleaning and preprocessing.
 - Performed exploratory data analysis using Python.
@@ -105,7 +105,7 @@ The project explores important business questions:
 - Created interactive Power BI dashboards.
 - Improved understanding of business KPIs and data-driven decision-making.
 
-## 🚀 Conclusion
+##  Conclusion
 
 This Food Delivery Analytics project demonstrates an end-to-end data analytics workflow, from raw data processing to database integration and interactive business intelligence reporting.
 
